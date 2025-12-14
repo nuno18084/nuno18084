@@ -10,12 +10,14 @@
 - 👨‍💻 Professional experience in application support and web development  
 - 🎯 Freelancer building fullstack web apps with modern technologies  
 - 📚 Always learning new tools and frameworks  
+- 🔐 Curious about Cybersecurity and currently studying to deepen my knowledge  
 
 ---
 
 ## Technologies I Use
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,6 +33,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+### Other Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-6DD0E3?style=flat&logo=dynatrace&logoColor=white)
 
 ---
 
